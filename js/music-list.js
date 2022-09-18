@@ -11,44 +11,44 @@
 
 let allMusic = [
   {
-    name: "Mone Lage Bhoy Go Allah",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "mone lage bhoy go allah",
+    artist: "sheikh afzal hussain sadi",
     img: "music-000",
     src: "music-000"
   },
   {
-    name: "Tomar Premer Sur",
-    artist: "Mamunur Rashid",
+    name: "tomar premer sur",
+    artist: "mamunur rashid",
     img: "music-00",
     src: "music-00"
   },
   {
-    name: "Mera Pyara Nabi",
-    artist: "Mamunur Rashid",
+    name: "mera pyara nabi",
+    artist: "mamunur rashid",
     img: "music-0",
     src: "music-0"
   },
   {
-    name: "Muhammad Rasul",
-    artist: "Sadikur Rahman , Mushir Alom Mijan",
+    name: "muhammad rasul",
+    artist: "sadikur rahman , mushir alom mijan",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Paina Khuje Shur",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "paina khuje shur",
+    artist: "sheikh afzal hussain sadi",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Rasul Namer",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "rasul namer",
+    artist: "sheikh afzal hussain sadi",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Marhaba Ya Mustafa",
-    artist: "Mushir Alom Mijan , Sayeem Ahmod Emon",
+    name: "marhaba ya mustafa",
+    artist: "mushir alom mijan , sayeem ahmod emon",
     img: "music-4",
     src: "music-4"
   },
@@ -65,56 +65,56 @@ let allMusic = [
   //   src: "music-6"
   // },
   {
-    name: "Satto Pather Disa",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "satto pather disa",
+    artist: "sheikh afzal hussain sadi",
     img: "music-7",
     src: "music-7"
   },
   {
-    name: "Mustofa Mujtoba",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "mustofa mujtoba",
+    artist: "sheikh afzal hussain sadi",
     img: "music-8",
     src: "music-8"
   },
   {
-    name: "Ami Nisite",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "ami nisite",
+    artist: "sheikh afzal hussain sadi",
     img: "music-9",
     src: "music-9"
   },
   {
-    name: "Tomar Dedar Cheya",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "tomar dedar cheya",
+    artist: "sheikh afzal hussain sadi",
     img: "music-10",
     src: "music-10"
   },
   {
-    name: "Allahu Allahu ",
-    artist: "Mushir Alom Mijan , Sayeem Ahmod Emon",
+    name: "allahu allahu ",
+    artist: "mushir alom mijan , sayeem ahmod emon",
     img: "music-11",
     src: "music-11"
   },
   {
-    name: "Madiney Ki Gali ",
-    artist: "Mushir Alom Mijan , Sayeem Ahmod Emon",
+    name: "madiney ki gali ",
+    artist: "mushir alom mijan , sayeem ahmod emon",
     img: "music-12",
     src: "music-12"
   },
   {
-    name: "Shorger Shuk Chai Na ",
-    artist: "Sheikh Afzal Hussain Sadi",
+    name: "shorger shuk chai na ",
+    artist: "sheikh afzal hussain sadi",
     img: "music-12",
     src: "music-13"
   },
   {
-    name: "Gai Tomari Shan ",
-    artist: "Abdullah Al Farhan",
+    name: "gai tomari shan ",
+    artist: "abdullah al farhan",
     img: "music-12",
     src: "music-14"
   },
   {
-    name: "Rasul Namer ",
-    artist: "Abdullah Al Farhan",
+    name: "rasul namer ",
+    artist: "abdullah al farhan",
     img: "music-12",
     src: "music-15"
   },
